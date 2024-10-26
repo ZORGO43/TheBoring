@@ -1,6 +1,7 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
-
-<img width="100" alt="boring-logo" src="https://github.com/ZORGO43/TheBoring/blob/0e7076390062666572ac9c4d97f9a75805e8edd6/assets/boring.png">
+<br><br>
+<div align="center">
+<img width="700" alt="boring-logo" src="https://github.com/ZORGO43/TheBoring/blob/0e7076390062666572ac9c4d97f9a75805e8edd6/assets/boring.png"></div>
 
 
 ## Basic Details
@@ -8,9 +9,9 @@
 
 
 ### Team Members
-- Team Lead: Ajmal Rasheed - AISAT
-- Member 2: Bezelel B Vallappillil - AISAT
-- Member 3: Jeremiah - AISAT
+- Team Lead: AJMAL RASHEED - AISAT
+- Member 2: BEZELEL B VALLAPPILLIL - AISAT
+- Member 3: JEREMIAH - AISAT
 
 ### Project Description
 The Boring is a to spend your useless time with us. The inspiration behind the project everybody is locked into their useless time watching KTU study material. The Time you spend on KTU is it wroth ?? and btw did you pass the exam ? nah I think because it's you. So hence spent that time with us... We will not make you lonely because our AI machan is there and a lot of other game too.
@@ -29,24 +30,29 @@ For Software:
 **Front-End Installation**
 
 *Step-1*
+
+```bash
 cd useless-app
+```
 
 *Step-2*
-# Run
+```bash
 npm start
+```
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1280" alt="readme-banner" src="https://github.com/ZORGO43/TheBoring/blob/6520f92844a9c5c8b8977c96d19d71c456cb99cb/assets/Home-Screenshot.png">
+Home Page
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1280" alt="readme-banner" src="https://github.com/ZORGO43/TheBoring/blob/6520f92844a9c5c8b8977c96d19d71c456cb99cb/assets/Mad-game-Screenshot.png">
+Mad Me Game
+
+<img width="1280" alt="readme-banner" src="https://github.com/ZORGO43/TheBoring/blob/6520f92844a9c5c8b8977c96d19d71c456cb99cb/assets/Chat-Screenshot.png">
+Chat
 
 ### Project Demo
 
