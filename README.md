@@ -14,7 +14,13 @@
 - Member 3: JEREMIAH - Albertian Institute of Science & Technology
 
 ### Project Description
-The Boring is a to spend your useless time with us. The inspiration behind the project everybody is locked into their useless time watching KTU study material. The Time you spend on KTU is it wroth ?? and btw did you pass the exam ? nah I think because it's you. So hence spent that time with us... We will not make you lonely because our AI machan is there and a lot of other game too.
+**TheBoring** is a website to help you pass your time when you’ve got nothing better to do. Feeling lonely? No worries—chat with our chatbot and feel like you’re not alone (*it’s still just a bot, though!*).
+
+Get started by typing “Sugam alle?” or “Eda, suggest me a non-veg food.” You can even ask it silly questions like, “Eda mownu, acid kudikamo?” We know the bot’s Manglish isn’t perfect So Ignore it please.
+
+Oh, and by the way, there’s a bear named **Chip** living on the site. Try not to disturb him—he’s got a quick temper!
+
+We hope you enjoy our project and stay useless !! Test it out Right Now https://boring.zorgo.xyz
 
 ## Technical Details
 ### Technologies/Components Used
