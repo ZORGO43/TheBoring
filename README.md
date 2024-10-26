@@ -48,6 +48,7 @@ For Software:
 git clone https://github.com/ZORGO43/TheBoring.git
 ```
 **FrontEnd Installation**
+
 *Step-1*
 ```bash
 cd TheBoring-FrontEnd
@@ -63,6 +64,7 @@ npm run start
 *The Website will be hosted on your local machine. http://localhost:3000*
 
 **BackEnd Installation**
+
 *Step-1*
 ```bash
 cd TheBoring-BackEnd
