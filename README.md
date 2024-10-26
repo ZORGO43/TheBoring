@@ -9,9 +9,9 @@
 
 
 ### Team Members
-- Team Lead: AJMAL RASHEED - AISAT
-- Member 2: BEZELEL B VALLAPPILLIL - AISAT
-- Member 3: JEREMIAH - AISAT
+- Team Lead: AJMAL RASHEED - Albertian Institute of Science & Technology
+- Member 2: BEZELEL B VALLAPPILLIL - Albertian Institute of Science & Technology
+- Member 3: JEREMIAH - Albertian Institute of Science & Technology
 
 ### Project Description
 The Boring is a to spend your useless time with us. The inspiration behind the project everybody is locked into their useless time watching KTU study material. The Time you spend on KTU is it wroth ?? and btw did you pass the exam ? nah I think because it's you. So hence spent that time with us... We will not make you lonely because our AI machan is there and a lot of other game too.
@@ -19,10 +19,22 @@ The Boring is a to spend your useless time with us. The inspiration behind the p
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- JavaScript
-- React Js
-- Tailwinds CSS, Axios, Express,
-- VSCode, Postman, Gimp
+Languages: JavaScript
+Frameworks: React.js
+Libraries:
+       - Tailwind CSS (for styling)
+       - Axios (for HTTP requests)
+       - Express (for backend)
+       - OpenAI (Chatbot base model API)
+
+Tools:
+      - Visual Studio Code (Code Editor)
+      - Cursor (Code Editor)
+      - Postman (for API testing)
+      - GIMP (for image editing)
+      - Ubuntu 24.04 Server (For Backend Hosting)
+
+- VSCode,Cursor,Postman,Gimp,Ubuntu 24.04
 
 ### Implementation
 For Software:
