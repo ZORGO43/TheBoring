@@ -14,7 +14,7 @@
 - Member 3: JEREMIAH - Albertian Institute of Science & Technology
 
 ### Project Description
-**TheBoring** is a website to help you pass your time when you’ve got nothing better to do. Feeling lonely? No worries—chat with our chatbot and feel like you’re not alone (*it’s still just a bot, though!*).
+**TheBoring** is a website to help you pass your time when you’ve got nothing better to do. Feeling lonely? No worries chat with our chatbot and feel like you’re not alone (*it’s still just a bot, though!*).
 
 Get started by typing “Sugam alle?” or “Eda, suggest me a non-veg food.” You can even ask it silly questions like, “Eda mownu, acid kudikamo?” We know the bot’s Manglish isn’t perfect So Ignore it please.
 
