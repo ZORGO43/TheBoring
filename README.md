@@ -19,52 +19,77 @@ The Boring is a to spend your useless time with us. The inspiration behind the p
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-Languages: JavaScript
-Frameworks: React.js
+Languages: 
+
+       - JavaScript
+Frameworks:
+
+       - React.js
 Libraries:
+
        - Tailwind CSS (for styling)
        - Axios (for HTTP requests)
        - Express (for backend)
        - OpenAI (Chatbot base model API)
 
 Tools:
+
       - Visual Studio Code (Code Editor)
-               Je
       - Cursor (Code Editor)
       - Postman (for API testing)
       - GIMP (for image editing)
-      - Ubuntu 24.04 Server (For Backend Hosting)
+      - Ubuntu 24.04 Server (For Backend Hosting And Testing)
 
 
 ### Implementation
 For Software:
 # Installation
-**Front-End Installation**
-
-*Step-1*
-
 ```bash
-cd useless-app
+git clone https://github.com/ZORGO43/TheBoring.git
 ```
-
+**FrontEnd Installation**
+*Step-1*
+```bash
+cd TheBoring-FrontEnd
+```
 *Step-2*
 ```bash
-npm start
+npm i
 ```
+*Step-3*
+```bash
+npm run start
+```
+*The Website will be hosted on your local machine. http://localhost:3000*
+**BackEnd Installation**
+*Step-1*
+```bash
+cd TheBoring-BackEnd
+```
+*Step-2*
+```bash
+npm i
+```
+*Step-3*
+```bash
+node index.js
+```
+*The Backend will be hosted on your local machine on http://localhost:4567*
+*API Call - http://localhost:4567/chat*
 
 ### Project Documentation
 For Software:
 
 # Screenshots
-
+### Home Page
 <img width="1280" alt="readme-banner" src="https://github.com/ZORGO43/TheBoring/blob/6520f92844a9c5c8b8977c96d19d71c456cb99cb/assets/Home-Screenshot.png">
-Home Page
 
+### Mad Me Game
 <img width="1280" alt="readme-banner" src="https://github.com/ZORGO43/TheBoring/blob/6520f92844a9c5c8b8977c96d19d71c456cb99cb/assets/Mad-game-Screenshot.png">
-Mad Me Game
 
+### Chat
 <img width="1280" alt="readme-banner" src="https://github.com/ZORGO43/TheBoring/blob/6520f92844a9c5c8b8977c96d19d71c456cb99cb/assets/Chat-Screenshot.png">
-Chat
+
 
 ### Project Demo
 
@@ -74,7 +99,7 @@ https://boring.zorgo.xyz
 ## Team Contributions
 - Ajmal Rasheed: Back-end 
 - Bezelel B Vallappillil: Front-end
-- Jeremiah: Ideas and support
+- Jeremiah: Support
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
