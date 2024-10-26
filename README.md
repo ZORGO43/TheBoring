@@ -29,12 +29,12 @@ Libraries:
 
 Tools:
       - Visual Studio Code (Code Editor)
+               Je
       - Cursor (Code Editor)
       - Postman (for API testing)
       - GIMP (for image editing)
       - Ubuntu 24.04 Server (For Backend Hosting)
 
-- VSCode,Cursor,Postman,Gimp,Ubuntu 24.04
 
 ### Implementation
 For Software:
