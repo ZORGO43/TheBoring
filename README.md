@@ -39,11 +39,12 @@ Libraries:
        - OpenAI (Chatbot base model API)
 
 Tools:
-
+         
       - Visual Studio Code (Code Editor)
       - Cursor (Code Editor)
       - Postman (for API testing)
       - GIMP (for image editing)
+      - ChatGPT (for help)
       - Ubuntu 24.04 Server (For Backend Hosting And Testing)
 
 
