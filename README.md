@@ -1,16 +1,16 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# TheBoring
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CodeX
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Ajmal Rasheed - AISAT
+- Member 2: Bezelel B - AISAT
+- Member 3: Jeremiah - AISAT
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -24,10 +24,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- JavaScript
+- React
+- Tailwindscss,Axios,Express,
+- VSCode,Postman,Gimp
 
 For Hardware:
 - [List main components]
@@ -37,7 +37,10 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+**Front-End Installation**
+
+*Step-1*
+
 
 # Run
 [commands]
