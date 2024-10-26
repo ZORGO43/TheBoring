@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# TheBoring
+<img width="100" alt="boring-logo" src="https://github.com/ZORGO43/TheBoring/blob/0e7076390062666572ac9c4d97f9a75805e8edd6/assets/boring.png">
 
 
 ## Basic Details
@@ -9,30 +9,19 @@
 
 ### Team Members
 - Team Lead: Ajmal Rasheed - AISAT
-- Member 2: Bezelel B - AISAT
+- Member 2: Bezelel B Vallappillil - AISAT
 - Member 3: Jeremiah - AISAT
 
 ### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The Boring is a to spend your useless time with us. The inspiration behind the project everybody is locked into their useless time watching KTU study material. The Time you spend on KTU is it wroth ?? and btw did you pass the exam ? nah I think because it's you. So hence spent that time with us... We will not make you lonely because our AI machan is there and a lot of other game too.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - JavaScript
-- React
-- Tailwindscss,Axios,Express,
-- VSCode,Postman,Gimp
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- React Js
+- Tailwinds CSS, Axios, Express,
+- VSCode, Postman, Gimp
 
 ### Implementation
 For Software:
@@ -40,10 +29,11 @@ For Software:
 **Front-End Installation**
 
 *Step-1*
+cd useless-app
 
-
+*Step-2*
 # Run
-[commands]
+npm start
 
 ### Project Documentation
 For Software:
@@ -58,41 +48,15 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+# Demo
+https://boring.zorgo.xyz
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Ajmal Rasheed: Back-end 
+- Bezelel B Vallappillil: Front-end
+- Jeremiah: Ideas and support
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
