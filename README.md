@@ -78,7 +78,7 @@ node index.js
 *API Call - http://localhost:4567/chat*
 
 ### Project Documentation
-For Software:
+We are using OpenAI's Paid API for this project and we have not shared the API Key public due to security reasons and my accout will be deactivated if the key is found public. Both FrontEnd and BackEnd Code is shared. We recommend using the pubic website of this project https://boring.zorgo.xyz .
 
 # Screenshots
 ### Home Page
