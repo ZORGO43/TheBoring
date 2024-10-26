@@ -61,6 +61,7 @@ npm i
 npm run start
 ```
 *The Website will be hosted on your local machine. http://localhost:3000*
+
 **BackEnd Installation**
 *Step-1*
 ```bash
