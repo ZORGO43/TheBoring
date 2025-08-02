@@ -1,0 +1,44 @@
+.scrollable-div {
+    width: 300px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-x: hidden; /* Disable horizontal scrolling */
+    border: 1px solid #ccc; /* Optional: Add a border for visibility */
+    padding: 10px; /* Optional: Add padding for aesthetics */
+    box-sizing: border-box; /* Ensure padding is included in the width/height */
+}
+
+/* Optional: Ensure text fits within the div */
+.scrollable-div p {
+    white-space: normal; /* Allow text to wrap */
+    word-wrap: break-word; /* Break long words if necessary */
+    margin: 0; /* Remove default margin */
+}
+
+
+.flex-end {
+    justify-content: flex-end;
+}
+
+.flex-start {
+    justify-content: flex-start;
+}
+
+.user-message {
+    background-color: #3b82f6; /* Blue */
+    color: white;
+    text-align: right;
+}
+
+.bot-message {
+    background-color: #e5e7eb; /* Light gray */
+    color: black;
+    text-align: left;
+}
+
+.message-box {
+    border-radius: 12px;
+    padding: 12px;
+    max-width: 75%;
+    word-wrap: break-word;
+}

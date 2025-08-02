@@ -1,0 +1,63 @@
+/* Styling for the container */
+/*  */
+  /* Styling for the image */
+  .animated-image {
+    position: absolute;
+    bottom: 0; /* Initially, the image is positioned at the bottom */
+    left: 218px;
+    top: 306.5px;
+    transform: translateX(-50%);
+    transition: transform 0.35s ease-in-out; /* Smooth transition */
+    width: 95px; /* Adjust image size */
+  }
+  
+  /* Class to move the image to the top */
+  .move-up {
+    transform: translate(-50%, -80%); /* Moves the image up smoothly */
+  }
+ 
+
+
+  /* ================================================================================== */
+
+  .animated-h-image {
+
+    bottom: 0; /* Initially, the image is positioned at the bottom */
+ height: 100px;
+    transform: translateX(-50%);
+    transition: transform 0.1s ease-in-out; /* Smooth transition */
+    width: 95px; /* Adjust image size */
+  }
+
+  .image-h-container {
+    z-index: 0;
+    top: 355px;
+    height: 30px;
+    right:71px;
+    position: absolute;
+    transition: transform 0.5s ease;
+    width: 120px; /* Allows the container to shrink to the image size */
+  }
+  
+  .move-right {
+    transform: translateX(60px); /* Adjust the distance as needed */
+  }
+
+
+  .paw{
+    z-index: 4;
+    height: 30px;
+    position: absolute;
+    top: 355px;
+    right: 40px;
+  }
+
+
+  /* ======================== */
+
+
+  .message{
+    position:absolute;
+    top: 80px;
+    left: 180px;
+  }
