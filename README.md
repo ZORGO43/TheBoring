@@ -108,7 +108,6 @@ https://boring.zorgo.xyz
 ## Team Contributions
 - Ajmal Rasheed: Back-end 
 - Bezelel B Vallappillil: Front-end
-- Jeremiah: Support
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
